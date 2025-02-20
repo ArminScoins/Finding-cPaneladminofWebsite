@@ -16,7 +16,7 @@ You need to know the administrator password of the website, which sites you are 
 
 `python2 -m pip install colorama`
 
-`https://github.com/palahsu/Finding-cPaneladminofWebsite`
+`https://github.com/ArminScoins/Finding-cPaneladminofWebsite`
 
 `cd Finding-cPaneladminofWebsite`
 
@@ -31,7 +31,7 @@ You must have Git and Python2 installed on your machine.
 
 `sudo apt install python2 -m pip install colorama`
 
-`https://github.com/palahsu/Finding-cPaneladminofWebsite`
+`https://github.com/ArminScoins/Finding-cPaneladminofWebsite`
 
 `cd Finding-cPaneladminofWebsite`
 
